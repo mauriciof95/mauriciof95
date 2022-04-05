@@ -1,4 +1,4 @@
-## E ae, sou o Mauricio, desenvolvedor Full-Stack Web | .Net 
+<!--## E ae, sou o Mauricio, desenvolvedor Full-Stack Web | .Net 
 <div align="center">
   <a href="https://github.com/mauriciof95">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciof95&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -21,4 +21,4 @@
   <a href="https://www.linkedin.com/in/mauricio-furtado-6285b9180/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>  
-</div>
+</div>-->
